@@ -12,7 +12,7 @@ const Animation6 = () => {
       Animated.sequence([
         Animated.timing(animation2, {
           toValue: -30,
-          duration: 500,
+          duration: 0,
           useNativeDriver: true,
         }),
         Animated.timing(animation1, {

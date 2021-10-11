@@ -14,14 +14,15 @@ import {
 // import Animation3 from './components/Animation3';
 // import Animation4 from './components/Animation4';
 // import Animation5 from './components/Animation5';
-import Animation6 from './components/Animation6';
+// import Animation6 from './components/Animation6';
+import Animation7 from './components/Animation7';
 
 const App = () => {
 
   return (
     <>
       <View style={styles.content}>
-        <Animation6 />
+        <Animation7 />
       </View>
     </>
   );
